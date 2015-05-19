@@ -1,6 +1,6 @@
 {
   "name": "Digital Banking",
-  "version": "0.1",
+  "version": “0.1.1”,
   "description": "Digital Banking",
   "main": "index.js",
   "scripts": {
