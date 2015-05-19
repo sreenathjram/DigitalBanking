@@ -1,0 +1,7 @@
+{
+  "name": "Digital Banking",
+  "description": "Digital Banking",
+  "repository": "https://github.com/sreenathjram/digitalbanking",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
